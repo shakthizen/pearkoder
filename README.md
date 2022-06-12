@@ -12,24 +12,18 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shakthizen&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   1 hr 47 mins    ███████████████████████▒░   93.51 %
-Java         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-```
-
-<!--END_SECTION:waka-->
+### 😂Wakatime Stats
+<img
+  src="https://github.com/shakthizen/shakthizen/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 ---
 [![](https://visitcount.itsvg.in/api?id=shakthizen&icon=1&color=3)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shakthizen) 
 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
