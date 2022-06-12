@@ -17,6 +17,13 @@
 
 ---
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   1 hr 47 mins    ███████████████████████▒░   93.51 %
+Java         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+```
+
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=shakthizen&icon=1&color=3)](https://visitcount.itsvg.in)
