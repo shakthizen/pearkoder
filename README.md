@@ -16,6 +16,9 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 [![](https://visitcount.itsvg.in/api?id=shakthizen&icon=1&color=3)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
