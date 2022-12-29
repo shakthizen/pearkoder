@@ -9,7 +9,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shakthizen&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂Wakatime Stats
+### 😎Wakatime Stats
 <img
   src="https://github.com/shakthizen/shakthizen/blob/main/images/stat.svg"
   alt="Alternative Text"
@@ -20,7 +20,5 @@
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shakthizen) 
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
